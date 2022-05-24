@@ -5,7 +5,16 @@
 - ⌨️ I’m currently learning C, C++, Python, Typescript, Unix, Virtual machines
 - 📫 Reach me -> dripanuc@student.42roma.it
 <div align="center">
-	
+	<table>
+		<tr>
+			<b>My 42 stats</b></br>
+		</tr>
+		<tr>
+			<a href="https://github.com/ripa001">
+				<img src="https://badge42.vercel.app/api/v2/cl3i4c6rm003509meco00h0bc/stats?cursusId=21&coalitionId=126" alt="dripanuc's 42 stats" />
+			</a>
+		</tr>
+	</table>
 	<table>
 		<tr>
 			<b>My GitHub stats</b>
@@ -23,16 +32,7 @@
 			</td>
 		</tr>
 	</table>
-	<table>
-		<tr>
-			<b>My 42 stats</b></br>
-		</tr>
-		<tr>
-			<a href="https://github.com/ripa001">
-				<img src="https://badge42.vercel.app/api/v2/cl3i4c6rm003509meco00h0bc/stats?cursusId=21&coalitionId=126" alt="dripanuc's 42 stats" />
-			</a>
-		</tr>
-	</table>
+	
 </div>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=ripa001&&style=flat-square)
