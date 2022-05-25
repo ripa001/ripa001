@@ -8,16 +8,6 @@
 <div align="center">
 	<table>
 		<tr>
-			<b>My 42 stats</b></br>
-		</tr>
-		<tr>
-			<a href="https://github.com/ripa001">
-				<img src="https://badge42.vercel.app/api/v2/cl3i4c6rm003509meco00h0bc/stats?cursusId=21&coalitionId=126" alt="dripanuc's 42 stats" />
-			</a>
-		</tr>
-	</table>
-	<table>
-		<tr>
 			<b>My GitHub stats</b>
 		</tr>
 		<tr>
@@ -31,6 +21,16 @@
 					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripa001&layout=compact&theme=tokyonight" width="442" height="200">
 				</a>
 			</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<b>My 42 stats</b></br>
+		</tr>
+		<tr>
+			<a href="https://github.com/ripa001">
+				<img src="https://badge42.vercel.app/api/v2/cl3i4c6rm003509meco00h0bc/stats?cursusId=21&coalitionId=126" alt="dripanuc's 42 stats" />
+			</a>
 		</tr>
 	</table>
 	<table>
