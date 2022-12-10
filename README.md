@@ -29,7 +29,8 @@
 		</tr>
 		<tr>
 			<a href="https://github.com/ripa001">
-				<img src="https://badge42.vercel.app/api/v2/cl3i4c6rm003509meco00h0bc/stats?cursusId=21&coalitionId=126" alt="dripanuc's 42 stats" />
+				<img src="https://badge42.vercel.app/api/v2/cl3i4c6rm003509meco00h0bc/project/2171467"/>
+				<!-- <img src="https://badge42.vercel.app/api/v2/cl3i4c6rm003509meco00h0bc/stats?cursusId=21&coalitionId=126" alt="dripanuc's 42 stats" /> -->
 			</a>
 		</tr>
 	</table>
