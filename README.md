@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @ripa (Davide)
 - 🖥 I’m currently student at 42Roma Luiss
-- ⌨️ I’m currently learning C, C++, Python, Typescript, Unix, Virtual machines
+- ⌨️ Developed technical skills in programming languages such as C, C++, Python, and TypeScript.
 - 🤖 Master Lab Artificial Intelligence Technology & Management - <a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/16267037639640967685316744724599270737277900659091959537816405570785829191681">Attestato NFT</a>
-- 📫 Reach me -> dripanuc@student.42roma.it
+- 📫 Reach me -> davide.ripanucci@gmail.com
 <div align="center">
 	<table>
 		<tr>
