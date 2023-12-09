@@ -9,6 +9,8 @@
 - 🐳 Acquired skills in Docker management and worked with databases such as MongoDB, PostgreSQL with Prisma, and MySQL.
 - 📫 Reach me -> davide.ripanucci@gmail.com
 
+
+<!-- make a cool ui for the skills -->
 <div align="center">
 	<table>
 		<tr>
@@ -36,26 +38,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white">
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=white">
 			</td>
 			<td>
@@ -65,13 +47,33 @@
 				<img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=white">
 			</td>
 			<td>
+				<img src="https://img.shields.io/badge/-Scikit%20Learn-000000?style=flat&logo=scikit-learn&logoColor=white">
+			</td>
+			<td>
+				<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
+			</td>
+			<td>
+				<img src="https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=white">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs&logoColor=white">
+			</td>
+			<td>
+				<img src="https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js&logoColor=white">
+			</td>
+			<td>
+				<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=white">
+			</td>
+			<td>
+				<img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white">
+			</td>
+			<td>
 				<img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white">
 			</td>
 			<td>
 				<img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-Scikit%20Learn-000000?style=flat&logo=scikit-learn&logoColor=white">
 			</td>
 		</tr>
 		<tr>
