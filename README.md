@@ -9,8 +9,6 @@
 - 🐳 Acquired skills in Docker management and worked with databases such as MongoDB, PostgreSQL with Prisma, and MySQL.
 - 📫 Reach me -> davide.ripanucci@gmail.com
 
-
-<!-- make a cool ui for the skills -->
 <div align="center">
 	<table>
 		<tr>
@@ -58,6 +56,12 @@
 		</tr>
 		<tr>
 			<td>
+				<img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=white">
+			</td>
+			<td>
+				<img src="https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=white">
+			</td>
+			<td>
 				<img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=white">
 			</td>
 			<td>
@@ -67,21 +71,21 @@
 				<img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white">
 			</td>
 			<td>
-				<img src="https://img.shields.io/badge/-Prisma-000000?style=flat&logo=prisma&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=white">
+				<img src="https://img.shields.io/badge/-Scikit%20Learn-000000?style=flat&logo=scikit-learn&logoColor=white">
 			</td>
 		</tr>
 		<tr>
+			<td>
+				<img src="https://img.shields.io/badge/-Prisma-000000?style=flat&logo=prisma&logoColor=white">
+			</td>
 			<td>
 				<img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white">
 			</td>
 			<td>
 				<img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white">
+			</td>
+			<td>
+				<img src="https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=google%20cloud&logoColor=white">
 			</td>
 			<td>
 				<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=white">
@@ -90,32 +94,10 @@
 				<img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=white">
 			</td>
 			<td>
-				<img src="https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=white">
-			</td>
-			<td>
 				<img src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=white">
 			</td>
 		</tr>
-		<tr>
-			<td>
-				<img src="https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello&logoColor=white">
-			</td>
-			<td>
-				<img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white">
-			</td>
-		</tr>
+		
 	</table>
 
 </div>
