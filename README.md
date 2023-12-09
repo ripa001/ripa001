@@ -10,6 +10,7 @@
 - 📫 Reach me -> davide.ripanucci@gmail.com
 
 
+<!-- make a cool ui for the skills -->
 <div align="center">
 	<table>
 		<tr>
